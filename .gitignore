@@ -5,3 +5,4 @@ __pycache__
 build/contracts
 build/deployments
 build/interfaces
+tests.json
